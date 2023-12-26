@@ -1,6 +1,4 @@
-# My Profile
-
-Welcome to my GitHub profile! 👋
+# Welcome to my GitHub profile! 👋
 
 I'm Muhammad Ibad, a passionate developer and learner. Here, you'll find a collection of projects that reflect my interests, skills, and journey in the world of coding.
 
@@ -13,6 +11,6 @@ I'm Muhammad Ibad, a passionate developer and learner. Here, you'll find a colle
 ## Connect with Me
 
 - 📫 You can reach me via email at [ibad29377@gmail.com].
-- 🌐 Check out my [LinkedIn profile] ([https://www.linkedin.com/in/ibadnad/]).
+- 🌐 Check out my [LinkedIn profile]([https://www.linkedin.com/in/ibadnad/]).
 
 Feel free to explore my repositories and let me know your thoughts! Happy coding! 🚀
