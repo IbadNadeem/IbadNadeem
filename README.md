@@ -1,4 +1,2 @@
-# Welcome to my GitHub profile! 👋
-
-account changed to @ibad23 
-Happy coding! 🚀
+# Hello There! 👋
+account changed to @ibad23
